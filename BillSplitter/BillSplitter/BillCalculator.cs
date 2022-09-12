@@ -79,6 +79,7 @@ namespace BillSplitter
             string item = "";
             string name;
             double cost;
+            ReceiptBox.Items.Add("Totals:");
             for(int i = 0; i < bills.Count; i++)
             {
                 name = bills[i].Item1;

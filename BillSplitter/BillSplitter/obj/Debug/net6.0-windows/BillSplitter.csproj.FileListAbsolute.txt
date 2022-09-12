@@ -15,3 +15,4 @@ C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\ne
 C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.pdb
 C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.genruntimeconfig.cache
 C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\ref\BillSplitter.dll
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.Hub.resources
