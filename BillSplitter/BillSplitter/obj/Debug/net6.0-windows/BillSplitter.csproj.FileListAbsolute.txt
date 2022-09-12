@@ -1,0 +1,17 @@
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\bin\Debug\net6.0-windows\BillSplitter.exe
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\bin\Debug\net6.0-windows\BillSplitter.deps.json
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\bin\Debug\net6.0-windows\BillSplitter.runtimeconfig.json
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\bin\Debug\net6.0-windows\BillSplitter.dll
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\bin\Debug\net6.0-windows\BillSplitter.pdb
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.csproj.AssemblyReference.cache
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.BillCalculatorForm.resources
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.csproj.GenerateResource.cache
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.AssemblyInfoInputs.cache
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.AssemblyInfo.cs
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.csproj.CoreCompileInputs.cache
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.dll
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\refint\BillSplitter.dll
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.pdb
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\BillSplitter.genruntimeconfig.cache
+C:\Users\noahr\source\repos\Bill-Splitter\BillSplitter\BillSplitter\obj\Debug\net6.0-windows\ref\BillSplitter.dll

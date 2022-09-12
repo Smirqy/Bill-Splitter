@@ -30,14 +30,14 @@
         {
             this.TitleLabel = new System.Windows.Forms.Label();
             this.PeopleGridBox = new System.Windows.Forms.DataGridView();
-            this.NameCol = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PayingCol = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.AddCostButton = new System.Windows.Forms.Button();
             this.ReceiptBox = new System.Windows.Forms.ListBox();
             this.ReceiptLabel = new System.Windows.Forms.Label();
             this.AddCostBox = new System.Windows.Forms.TextBox();
             this.AddCostLabel = new System.Windows.Forms.Label();
             this.HelpLabel = new System.Windows.Forms.Label();
+            this.NameCol = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PayingCol = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.PeopleGridBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -65,24 +65,6 @@
             this.PeopleGridBox.RowTemplate.Height = 29;
             this.PeopleGridBox.Size = new System.Drawing.Size(209, 286);
             this.PeopleGridBox.TabIndex = 1;
-            // 
-            // NameCol
-            // 
-            this.NameCol.HeaderText = "Name";
-            this.NameCol.MinimumWidth = 6;
-            this.NameCol.Name = "NameCol";
-            this.NameCol.Resizable = System.Windows.Forms.DataGridViewTriState.False;
-            this.NameCol.Width = 125;
-            // 
-            // PayingCol
-            // 
-            this.PayingCol.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            this.PayingCol.HeaderText = "Paying";
-            this.PayingCol.MinimumWidth = 6;
-            this.PayingCol.Name = "PayingCol";
-            this.PayingCol.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.PayingCol.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.PayingCol.Width = 81;
             // 
             // AddCostButton
             // 
@@ -139,6 +121,26 @@
             this.HelpLabel.TabIndex = 8;
             this.HelpLabel.Text = "Help...";
             // 
+            // NameCol
+            // 
+            this.NameCol.HeaderText = "Name";
+            this.NameCol.MaxInputLength = 12;
+            this.NameCol.MinimumWidth = 6;
+            this.NameCol.Name = "NameCol";
+            this.NameCol.Resizable = System.Windows.Forms.DataGridViewTriState.False;
+            this.NameCol.ToolTipText = "Name of Payer";
+            this.NameCol.Width = 125;
+            // 
+            // PayingCol
+            // 
+            this.PayingCol.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
+            this.PayingCol.HeaderText = "Paying";
+            this.PayingCol.MinimumWidth = 6;
+            this.PayingCol.Name = "PayingCol";
+            this.PayingCol.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.PayingCol.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.PayingCol.Width = 81;
+            // 
             // BillCalculatorForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -166,13 +168,13 @@
 
         private Label TitleLabel;
         private DataGridView PeopleGridBox;
-        private DataGridViewTextBoxColumn NameCol;
-        private DataGridViewCheckBoxColumn PayingCol;
         private Button AddCostButton;
         private ListBox ReceiptBox;
         private Label ReceiptLabel;
         private TextBox AddCostBox;
         private Label AddCostLabel;
         private Label HelpLabel;
+        private DataGridViewTextBoxColumn NameCol;
+        private DataGridViewCheckBoxColumn PayingCol;
     }
 }
