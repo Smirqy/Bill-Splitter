@@ -7,6 +7,6 @@ Project:    Bill Splitter
 # About:
 This project contains both a group tab calculator and Bill splitting calculator.
 
-#Reason:
+# Reason:
 Found that apps in this area are not intutive or can be difficult to use so coding my own allowed me to customize how I wanted the information to be displayed.
 
