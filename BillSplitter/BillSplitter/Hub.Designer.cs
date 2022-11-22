@@ -89,6 +89,7 @@
             this.SplitCalculatorLink.TabIndex = 2;
             this.SplitCalculatorLink.TabStop = true;
             this.SplitCalculatorLink.Text = "Split Calculator";
+            this.SplitCalculatorLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.SplitCalculatorLink_LinkClicked);
             // 
             // Hub
             // 

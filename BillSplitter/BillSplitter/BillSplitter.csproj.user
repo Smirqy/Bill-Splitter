@@ -7,5 +7,8 @@
     <Compile Update="Hub.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="SplitCalculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
